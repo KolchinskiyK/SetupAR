@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab10b66afb845941a881b614fbbbdf4, type: 3}
+  m_Name: REISZM115
+  m_EditorClassIdentifier: 
+  micName: REISZ M 115
+  isStereo: 0
+  track1: {fileID: 8300000, guid: d9cb58d666ff228428f7e6fce0670891, type: 3}
+  track2: {fileID: 8300000, guid: a46fce05b9c852646af856be3817c327, type: 3}
+  track3: {fileID: 8300000, guid: c88c629c779166e448612c1ff355fba0, type: 3}
+  position: {x: 0, y: 0, z: 200}
+  rotation: {x: 0, y: 0, z: 0}
+  infoMenuPrefab: {fileID: 8653637713723385280, guid: 86db4d725e3a54741b8b89cb5f668460, type: 3}

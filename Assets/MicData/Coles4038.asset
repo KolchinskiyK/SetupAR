@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab10b66afb845941a881b614fbbbdf4, type: 3}
+  m_Name: Coles4038
+  m_EditorClassIdentifier: 
+  micName: Coles 4038
+  isStereo: 1
+  track1: {fileID: 8300000, guid: 643a49c6882f4114bbdefaea34dffdce, type: 3}
+  track2: {fileID: 8300000, guid: c3de2003657d7ef4695785c84b86bba4, type: 3}
+  track3: {fileID: 8300000, guid: 69d56bdedec907f43adb1c321fc9d936, type: 3}
+  position: {x: 1.45, y: 1.12, z: 0.82}
+  rotation: {x: 0, y: 55, z: 0}
+  infoMenuPrefab: {fileID: 8653637713723385280, guid: 86db4d725e3a54741b8b89cb5f668460, type: 3}
+  infoImage: {fileID: 21300000, guid: 44157edd813e4ed4fa47cfd513582211, type: 3}
+  customIconActive: {fileID: 21300000, guid: 0581139a4874c72488c320d247e2014c, type: 3}
+  customIconMuted: {fileID: 21300000, guid: a42cdeec14cc32947afe8da771334437, type: 3}

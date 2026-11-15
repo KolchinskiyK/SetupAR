@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab10b66afb845941a881b614fbbbdf4, type: 3}
+  m_Name: DPA2015
+  m_EditorClassIdentifier: 
+  micName: DPA 2015
+  isStereo: 1
+  track1: {fileID: 8300000, guid: 9595079bfeb8cab49b9c026c3792011a, type: 3}
+  track2: {fileID: 8300000, guid: 000bdba11a3cc1f47b762f7d19548302, type: 3}
+  track3: {fileID: 8300000, guid: 767257ac719c6c94fb8d4b8f131dc388, type: 3}
+  position: {x: 0.5, y: 1.13, z: -0.58}
+  rotation: {x: 0, y: 0, z: 0}
+  infoMenuPrefab: {fileID: 8653637713723385280, guid: 86db4d725e3a54741b8b89cb5f668460, type: 3}
+  infoImage: {fileID: 21300000, guid: c5939cea1a15b9a4483b585413d8506d, type: 3}
+  customIconActive: {fileID: 21300000, guid: c1ae4aeee3c94034cbab9c4029e719ee, type: 3}
+  customIconMuted: {fileID: 21300000, guid: 1f38085124de828439eb8760c035383b, type: 3}

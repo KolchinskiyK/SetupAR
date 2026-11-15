@@ -1,0 +1,75 @@
+{
+    "version": 1,
+    "name": "XRInputActions",
+    "maps": [
+        {
+            "name": "XR",
+            "id": "3001dcc0-2c23-4aca-a24d-dce84357c8b3",
+            "actions": [
+                {
+                    "name": "OpenFollowMenu",
+                    "type": "Button",
+                    "id": "81395058-20c0-4ad7-a154-4430523aa638",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "OpenObjektMenu",
+                    "type": "Button",
+                    "id": "e13c2a97-81d8-4414-8dc0-9c96d12820ea",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "InteractWithMenu",
+                    "type": "Button",
+                    "id": "4efe2fd4-aa2e-4619-8426-9b61554877dc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0237351b-d7ad-470b-b603-f3b7943c11a8",
+                    "path": "<XRController>{LeftHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenFollowMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ad748626-25c1-4f83-93a5-7126f95e92b9",
+                    "path": "<XRController>{LeftHand}/{SecondaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OpenObjektMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dce19e90-9eb9-4622-9964-4c6cc57b0c73",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "InteractWithMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
