@@ -62,3 +62,15 @@ The project uses a Interface-based interaction system to decouple input from log
 2.  Ensure **Android Build Support** and **XR Plugin** are installed.
 3.  Open the main scene `MetaScene`.
 4.  Build and Run to Meta Quest via USB (or use Oculus Casting/Link for testing).
+
+##  Credits
+
+Programming: 
+   @diarsl
+   @KolchinskiyK
+Designs and UI: 
+   Michelle Hartl
+   Chiara Leitner
+   Julia Binder
+Audio Recording: 
+   Anastasiia Krasnikova
