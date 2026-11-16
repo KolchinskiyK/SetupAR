@@ -65,12 +65,14 @@ The project uses a Interface-based interaction system to decouple input from log
 
 ##  Credits
 
-Programming: 
+* Programming: 
    @diarsl
    @KolchinskiyK
-Designs and UI: 
+   
+* Designs and UI: 
    Michelle Hartl
    Chiara Leitner
    Julia Binder
-Audio Recording: 
+   
+* Audio Recording: 
    Anastasiia Krasnikova
