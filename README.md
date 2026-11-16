@@ -70,8 +70,8 @@ The project uses a Interface-based interaction system to decouple input from log
    @KolchinskiyK
    
 * Designs and UI: 
-   Michelle Hartl
-   Chiara Leitner
+   Michelle Hartl,
+   Chiara Leitner,
    Julia Binder
    
 * Audio Recording: 
